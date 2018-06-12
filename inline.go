@@ -7,7 +7,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/MJKWoolnough/memio"
+	"vimagination.zapto.org/memio"
 )
 
 type tag struct {
